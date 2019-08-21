@@ -7,6 +7,7 @@
 ## Scripts
 
 + server.py - the main server python file
+  + Hosted, by default, on the local machine
 + client.py - the client for connecting to the server, can be used from any device that can access the machine running the server script
   + LAN
   + WLAN
