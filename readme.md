@@ -2,7 +2,7 @@
 
 + Designed to send text information over a basic socket connection
 + Written in Python
-+ Likely insecure (TODO: Monitor Packets with Wireshark and update this)
++ Likely insecure
 
 ## Scripts
 
@@ -17,3 +17,6 @@
 + Does not work over LAN
   + Possibly over WLAN and WAN, similarly
   + Only works locally?
+
+## To-Do
++ Monitor Packets with Wireshark and verify or debunk possible insecurity 
