@@ -14,9 +14,7 @@
   + WAN
 
 ## Known bugs
-+ Does not work over LAN
-  + Possibly over WLAN and WAN, similarly
-  + Only works locally?
 
 ## To-Do
+
 + Monitor Packets with Wireshark and verify or debunk possible insecurity 
